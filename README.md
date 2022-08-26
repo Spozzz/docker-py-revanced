@@ -78,7 +78,7 @@ By default, script builds the version as recommended by Revanced team.
    - [youtube]
    - [youtube music]
    - [twitter]
-3. If you want to a `latest` version, whatever latest is available (including beta) .
+3. If you want to a `latest` version, whatever latest is available (excluding beta) .
    Add `latest` in `environment` in the format
    ```ini
    <APPNAME>_VERSION=latest
