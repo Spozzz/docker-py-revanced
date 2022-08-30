@@ -26,11 +26,11 @@ A little python script that will help you in building [Revanced apps](#note) dir
 
         ```ini
         PATCH_APPS=youtube,twitter
-        EXCLUDE_PATCH_YOUTUBE=hide-cast-button,hide-autoplay-button,premium-heading,disable-fullscreen-panels,old-quality-layout,tablet-mini-player,always-autorepeat,enable-debugging,hide-infocard-suggestions
+        EXCLUDE_PATCH_YOUTUBE=hide-cast-button,hide-autoplay-button,premium-heading,old-quality-layout,tablet-mini-player,always-autorepeat
         EXCLUDE_PATCH_YOUTUBE_MUSIC=yt-music-is-shit
-        YOUTUBE_VERSION=17.32.39
+        YOUTUBE_VERSION=17.33.42
         YOUTUBE_MUSIC_VERSION=latest
-        TWITTER_VERSION=latest    
+        TWITTER_VERSION=latest
         ```
     </details>    
 3. Go to actions tab. Select `Build Revanced APK`. Click on `Run Workflow`.
